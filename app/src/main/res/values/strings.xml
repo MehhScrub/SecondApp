@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="name">com.example.secondapp.Lan.name</string>
+    <string name="lastName">com.example.secondapp.Lan.password</string>
+</resources>
