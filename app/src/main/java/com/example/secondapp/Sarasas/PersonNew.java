@@ -24,7 +24,6 @@ public class PersonNew extends SarasasFragment {
     public EditText mLastName;
 
     @BindView(R.id.btnAdd)
-            //lmao wwwws
     Button btnAdd;
 
 
