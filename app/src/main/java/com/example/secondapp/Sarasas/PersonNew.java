@@ -27,6 +27,7 @@ public class PersonNew extends SarasasFragment {
     Button btnAdd;
 
 
+
     private static final String TAG = "PersonNew";
 
     public static PersonNew newInstance(Bundle args){
