@@ -24,6 +24,7 @@ public class PersonNew extends SarasasFragment {
     public EditText mLastName;
 
     @BindView(R.id.btnAdd)
+           // lmao
     Button btnAdd;
 
     private static final String TAG = "PersonNew";
